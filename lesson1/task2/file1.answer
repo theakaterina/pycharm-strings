@@ -1,0 +1,6 @@
+# Length
+
+word = "supercalifragilisticexpialidocious"
+
+print "This word is ", len(word), " letters long."
+

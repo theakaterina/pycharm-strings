@@ -1,0 +1,6 @@
+na = "na "
+hey_jude = "hey jude"
+batman = "batman"
+
+print na * 9 + hey_jude
+print na * 16 + batman

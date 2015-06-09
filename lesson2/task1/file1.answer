@@ -1,0 +1,5 @@
+word = "mississippi"
+spaces = "count the number of spaces in this fantastic sentence"
+
+print "There are", word.count("i"), "i's in mississippi"
+print "There are", spaces.count(" "), "spaces in that sentence."
