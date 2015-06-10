@@ -286,7 +286,7 @@
                                   <option name="index" value="1" />
                                   <option name="length" value="0" />
                                   <option name="line" value="6" />
-                                  <option name="replacementLength" value="17" />
+                                  <option name="replacementLength" value="18" />
                                   <option name="start" value="6" />
                                   <option name="taskText" value="hey juuuuude" />
                                   <option name="line" value="6" />
@@ -295,7 +295,7 @@
                                   <option name="possible_answer" value="na * 9 + hey_jude" />
                                   <option name="length" value="0" />
                                   <option name="myTaskText" value="hey juuuuude" />
-                                  <option name="myReplacementLength" value="17" />
+                                  <option name="myReplacementLength" value="18" />
                                   <option name="myIndex" value="1" />
                                 </TaskWindow>
                                 <TaskWindow>
@@ -625,7 +625,7 @@
                                       <option name="index" value="1" />
                                       <option name="length" value="0" />
                                       <option name="line" value="6" />
-                                      <option name="replacementLength" value="17" />
+                                      <option name="replacementLength" value="18" />
                                       <option name="start" value="6" />
                                       <option name="taskText" value="hey juuuuude" />
                                       <option name="line" value="6" />
@@ -634,7 +634,7 @@
                                       <option name="possible_answer" value="na * 9 + hey_jude" />
                                       <option name="length" value="0" />
                                       <option name="myTaskText" value="hey juuuuude" />
-                                      <option name="myReplacementLength" value="17" />
+                                      <option name="myReplacementLength" value="18" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
                                     <TaskWindow>
@@ -2223,7 +2223,7 @@
                                       <option name="index" value="1" />
                                       <option name="length" value="0" />
                                       <option name="line" value="6" />
-                                      <option name="replacementLength" value="17" />
+                                      <option name="replacementLength" value="18" />
                                       <option name="start" value="6" />
                                       <option name="taskText" value="hey juuuuude" />
                                       <option name="line" value="6" />
@@ -2232,7 +2232,7 @@
                                       <option name="possible_answer" value="na * 9 + hey_jude" />
                                       <option name="length" value="0" />
                                       <option name="myTaskText" value="hey juuuuude" />
-                                      <option name="myReplacementLength" value="17" />
+                                      <option name="myReplacementLength" value="18" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
                                     <TaskWindow>
@@ -2562,7 +2562,7 @@
                                           <option name="index" value="1" />
                                           <option name="length" value="0" />
                                           <option name="line" value="6" />
-                                          <option name="replacementLength" value="17" />
+                                          <option name="replacementLength" value="18" />
                                           <option name="start" value="6" />
                                           <option name="taskText" value="hey juuuuude" />
                                           <option name="line" value="6" />
@@ -2571,7 +2571,7 @@
                                           <option name="possible_answer" value="na * 9 + hey_jude" />
                                           <option name="length" value="0" />
                                           <option name="myTaskText" value="hey juuuuude" />
-                                          <option name="myReplacementLength" value="17" />
+                                          <option name="myReplacementLength" value="18" />
                                           <option name="myIndex" value="1" />
                                         </TaskWindow>
                                         <TaskWindow>
