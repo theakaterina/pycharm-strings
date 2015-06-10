@@ -1,0 +1,2 @@
+#educational_plugin_window = word in words
+#educational_plugin_window = word.startswith(letter)

@@ -1,1 +1,6 @@
-# TODO: type solution here
+websites = "google.comfacebook.comyoutube.comamazon.comtwitter.comebay.comreddit.com"
+
+companies = websites.split(".com")
+length = len(companies)
+
+print companies[0:length - 1]

@@ -1,0 +1,6 @@
+#educational_plugin_window = sentence[0:4]
+#educational_plugin_window = sentence[5:7]
+#educational_plugin_window = sentence[8:12]
+#educational_plugin_window = sentence[13]
+#educational_plugin_window = sentence[15:19]
+#educational_plugin_window = sentence[20:]

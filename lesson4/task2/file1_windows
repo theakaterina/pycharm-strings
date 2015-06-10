@@ -1,0 +1,3 @@
+#educational_plugin_window = letter in string:
+#educational_plugin_window = letter.isalpha() or letter.isspace()
+#educational_plugin_window = new_string + letter

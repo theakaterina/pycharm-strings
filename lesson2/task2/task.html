@@ -1,4 +1,16 @@
 <html>
-Write your task text here.
+string.index("char") returns the index that char first occurs at in string. <br>
+sentence = "Items made of harder materials such as iron or diamond will last longer." <br>
+sentence.index("made") = 6 <br>
+sentence.index("m") = 3 <br>
+sentence.index("er") = 18 <br><br>
+
+If there is no such "char" in the string, it raises an exception (the name for an error in python). <br>
+sentence.index("gold") returns ValueError: substring not found <br><br>
+There is a very similar function called find(). It works in exactly the same way, except instead of
+raising an error, it returns -1 <br>
+So sentence.find("gold") = -1 <br><br>
+
+Your task is to find Nemo in the synopsis and to use that print the word "Nemo".
 <br>
 </html>

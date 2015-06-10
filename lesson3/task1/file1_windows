@@ -1,0 +1,3 @@
+#educational_plugin_window = websites.split(".com")
+#educational_plugin_window = len(companies)
+#educational_plugin_window = companies[0:length - 1]

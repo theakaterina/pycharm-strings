@@ -1,1 +1,3 @@
-string = "whatistheseventeethletter?"
+string = "whatistheseventeenthletter?"
+
+print "the seventeenth letter of that string is", string[16]

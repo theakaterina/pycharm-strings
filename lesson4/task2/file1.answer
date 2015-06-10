@@ -1,1 +1,11 @@
-# TODO: type solution here
+# Returns a string with all non alpha and non space characters removed
+
+
+def return_alphaspace(string):
+    new_string = ""
+    for letter in string:
+        if letter.isalpha() or letter.isspace():
+            new_string = new_string + letter
+    return new_string
+
+print return_alphaspace("o1h 1my1 g23ood234ne13s46s3 4a722 6s4e67cre98t me8s9s0a%ge")

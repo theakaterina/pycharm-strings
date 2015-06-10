@@ -1,5 +1,5 @@
 # Make a string called insult
 
-insult = "you are just the worst"
+you're a dingbat
 
 print insult

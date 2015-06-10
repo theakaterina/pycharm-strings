@@ -1,0 +1,2 @@
+#educational_plugin_window = word.count("i")
+#educational_plugin_window = sentence.count("flies")

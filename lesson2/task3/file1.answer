@@ -1,1 +1,19 @@
-# TODO: type solution here
+t_rex1 = "IN TODAY'S SOCIETY, KNOWING A LITTLE ABOUT COMPUTERS CAN GO A LONG WAY!"
+t_rex2 = "tHEY'RE NOT MAGIC BOXES. iN FACT, THE MORE YOU LEARN ABOUT THEM THE LESS MAGICAL THEY'LL BE!"
+t_rex3 = "Soon You'Ll Be Staring At An Obscure Compiler Error And No Magic Will Be Left In The World!"
+dromiceiomimus1 = "Are you starting with object-oriented development or structured programming?"
+dromiceiomimus2 = "And either way, how are you introducing declaration scope and abstractions?"
+t_rex4 = "i THOUGHT i'D ACTUALLY START WITH LOGIC GATES, AND BUILD UP TO SIMPLE MACHINE LANGUAGES FROM THAT?"
+dromiceiomimus3 = "Hmm... maybe start with functional programming so state isn't a concern?"
+utahraptor1 = "Computers: more complicated than they seem?"
+t_rex5 = "no, DoN't SAY That!"
+
+print t_rex1.capitalize()
+print t_rex2.swapcase()
+print t_rex3.capitalize()
+print dromiceiomimus1
+print dromiceiomimus2
+print t_rex4.swapcase()
+print dromiceiomimus3
+print utahraptor1
+print t_rex5.upper()

@@ -1,1 +1,21 @@
-# TODO: type solution here
+onions = "   mmmm i love onions"
+
+# onions.strip()
+answer1 = "mmmm i love onions"
+
+# onions.strip(" m")
+answer2 = "i love onions"
+
+
+string = "abbbabcbababcaba"
+
+# string.lstrip("ab")
+answer3 = "cbababcaba"
+
+# string.rstrip("ab")
+answer4 = "abbbabcbababc"
+
+# string.strip("abc")
+answer5 = ""
+
+

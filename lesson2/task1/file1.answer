@@ -1,5 +1,6 @@
 word = "mississippi"
-spaces = "count the number of spaces in this fantastic sentence"
+
+sentence = "Time flies like an arrow; fruit flies like a banana"
 
 print "There are", word.count("i"), "i's in mississippi"
-print "There are", spaces.count(" "), "spaces in that sentence."
+print "There are", sentence.count("flies"), "flies in that sentence"

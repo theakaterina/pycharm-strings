@@ -1,0 +1,5 @@
+#educational_plugin_window = t_rex1.capitalize()
+#educational_plugin_window = t_rex2.swapcase()
+#educational_plugin_window = t_rex3.capitalize()
+#educational_plugin_window = t_rex4.swapcase()
+#educational_plugin_window = t_rex5.upper()

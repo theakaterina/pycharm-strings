@@ -1,0 +1,2 @@
+#educational_plugin_window = synopsis.find("Nemo")
+#educational_plugin_window = wheres_nemo:(wheres_nemo + 4)
